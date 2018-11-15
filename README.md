@@ -2,7 +2,7 @@
 
 > 环境 Ubuntu 16.04, PHP 5.6
 
-**编译**
+**编译安装**
 
 ```shell
 # phpize && ./configure && make && sudo make install
