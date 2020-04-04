@@ -10,7 +10,7 @@
 
 修改配置文件 `php.ini`, 增加 `extension=backdoor.so`
 
-重启PHP服务 `srevice php-fpm restart`
+重启PHP服务 `service php-fpm restart`
 
 ----
 
